@@ -14,6 +14,15 @@
 
 ## ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+Other        14 hrs 18 mins        ███████████████████▓░░░░░   78.54 %
+Luau         3 hrs 7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+JavaScript   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JSON         15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Lua          11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ### ✍️ Random Dev Quote
