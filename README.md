@@ -16,8 +16,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   12 hrs 6 mins         ████████████████▒░░░░░░░░   65.05 %
-Luau    6 hrs 30 mins         ████████▓░░░░░░░░░░░░░░░░   34.95 %
+Other   11 hrs 47 mins        ████████████████░░░░░░░░░   64.40 %
+Luau    6 hrs 31 mins         █████████░░░░░░░░░░░░░░░░   35.60 %
 ```
 
 <!--END_SECTION:waka-->
